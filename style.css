@@ -1,0 +1,38 @@
+body
+{
+	background-color:red;
+	color:white;
+	background-image:url("stardust.png");
+	text-align:center;
+}
+
+div{
+	width:60px;
+	height:200px;
+	background:blue;
+	position:fixed;
+	left:0px;
+	top:60px;
+}
+
+
+
+
+h1
+{
+	color:red;
+}
+
+.champions{
+	color:gold;}
+
+.lol{
+color:red;}
+
+span{
+	font-size:25px;
+	text-decoration:underline;
+	cursor:pointer;
+	font-style:italic; 
+	color:white;
+	}

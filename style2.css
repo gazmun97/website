@@ -1,0 +1,21 @@
+body
+{
+	background-color:red;
+	color:white;
+	text-align:center;
+}
+
+h1{
+	color:gold;
+}
+
+.lol{
+color:red;}
+
+span{
+	font-size:25px;
+	text-decoration:underline;
+	cursor:pointer;
+	font-style:italic; 
+	color:white;
+	}
